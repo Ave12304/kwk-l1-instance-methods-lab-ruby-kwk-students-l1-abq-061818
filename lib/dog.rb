@@ -1,23 +1,13 @@
 # dog.rb
 class dog
 
-
-
 def bark
-  puts "woof"
-end
-
-end
-
-def sit= (sit)
-  @sit = sit
+  puts "Woof"
 end
 
 def sit
-  @sit
+  puts "The Dog is sitting"
+end
 end
 
-def dog_sit
-  puts "the dog is sitting"
-end
-end
+fido = Dog.new
