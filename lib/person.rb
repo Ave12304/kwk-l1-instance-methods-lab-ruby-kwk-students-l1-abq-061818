@@ -1,22 +1,11 @@
-# person.rb
 class person
 
-def initialize(talk)
-  @talk = talk
-end
-
 def  talk
-  puts "hello World"
-end
-
-end
-
-def walk= (walk)
-  @walk = walk
+  puts "Hello World"
 end
 
 def walk
-  puts "the person is walking"
+  puts "The Person is walking"
 end
 
 end
