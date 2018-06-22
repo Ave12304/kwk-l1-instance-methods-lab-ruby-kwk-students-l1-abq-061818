@@ -19,4 +19,6 @@ def sit
   @sit
 end
 
-end    
+end
+
+fido= dog.new    
