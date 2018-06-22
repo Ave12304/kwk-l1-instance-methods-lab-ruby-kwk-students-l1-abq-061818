@@ -6,7 +6,7 @@ def initialize(talk)
 end
 
 def  talk
-  @talk
+  puts "hello World"
 end
 
 end
@@ -16,7 +16,8 @@ def walk= (walk)
 end
 
 def walk
-  @walk
+  puts "the person is walking"
 end
 
 end
+
