@@ -1,5 +1,5 @@
 # dog.rb
-class dog
+class Dog
 
 def bark
   puts "Woof!"
@@ -11,3 +11,4 @@ end
 end
 
 fido = Dog.new
+ 
