@@ -1,4 +1,4 @@
-# Instance Methods Lab Ruby
+ # Instance Methods Lab Ruby
 
 ## Objectives
 
@@ -40,4 +40,3 @@ Add an instance method `#walk` to your `Person` class in `lib/person.rb` that wi
 When you're done, submit the lab with `learn submit`.
 
 <p data-visibility='hidden'>KWK-L1 Instance Methods Lab Ruby</p>
-

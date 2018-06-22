@@ -1,24 +1,23 @@
 # dog.rb
 class dog
 
-def initalize(bark)
-  @bark = bark
-end
+
 
 def bark
-  @bark
+  puts "woof"
 end
 
 end
 
-def sit = (sit)
-  @sit =  (sit)
+def sit= (sit)
+  @sit = sit
 end
 
 def sit
   @sit
 end
 
+def dog_sit
+  puts "the dog is sitting"
 end
-
-fido= dog.new    
+end
