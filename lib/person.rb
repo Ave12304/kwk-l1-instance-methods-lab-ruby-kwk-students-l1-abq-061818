@@ -9,8 +9,8 @@ def  talk
   @talk
 end
 
-def walk = (walk)
-  @walk = (walk)
+def walk= (walk)
+  @walk = walk
 end
 
 def walk
